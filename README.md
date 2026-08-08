@@ -60,12 +60,12 @@ Intéressée par l'**IA**, la **donnée**, et l'**analyse des processus métier*
 ## GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=4F7CFF&text_color=98989F" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=98989F" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omeyme-maadh&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=4F7CFF&text_color=98989F" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeyme-maadh&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=98989F" alt="Top languages"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=transparent&hide_border=true&ring=C9A227&fire=4F7CFF&currStreakLabel=C9A227&sideLabels=98989F&dates=5c5c63" alt="Streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omeyme-maadh&theme=transparent&hide_border=true&ring=C9A227&fire=4F7CFF&currStreakLabel=C9A227&sideLabels=98989F&dates=5c5c63" alt="Streak stats"/>
 </div>
 
 <br/>
