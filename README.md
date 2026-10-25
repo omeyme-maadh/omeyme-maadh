@@ -1,90 +1,83 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Omeyme Cherif Ahmed — banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:D4AF37&height=220&section=header&text=Omeyme%20Maadh&fontSize=52&fontColor=E6EDF3&fontAlignY=38&desc=MIAGE%20Student%20at%20FST%20Mauritania%20%C2%B7%20Design%20%C2%B7%20AI%20%C2%B7%20Web&descSize=18&descAlignY=58&descColor=8B949E" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=20&pause=1200&color=D4AF37&center=true&vCenter=true&width=640&lines=Designing+clean+and+modern+interfaces;Exploring+AI+with+Python;Building+websites+with+HTML+CSS+and+JavaScript" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=C9A227&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Business+Information+Systems+(MIAGE);Future+AI+Engineer" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=C9A227" alt="LinkedIn"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0a0a0c?style=for-the-badge&logo=gmail&logoColor=4F7CFF" alt="Email"/></a>
-<a href="https://YOUR-USERNAME.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0a0a0c?style=for-the-badge&logo=vercel&logoColor=C9A227" alt="Portfolio"/></a>
+![Country](https://img.shields.io/badge/Country-Mauritania-D4AF37?style=for-the-badge&labelColor=161B22)
+![Focus](https://img.shields.io/badge/Focus-Design%20%26%20AI-2DD4BF?style=for-the-badge&labelColor=161B22)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-3FB950?style=for-the-badge&labelColor=161B22)
 
 </div>
 
-<br/>
+---
 
-## About &#183; À propos
+## About me
+
+Hi, I'm Omeyme Maadh, a Bachelor's student in MIAGE (Computer Science Applied to Business Management) at the Faculty of Sciences and Techniques (FST) in Mauritania. I love my field and I'm especially passionate about artificial intelligence and how it can improve business and management. I also enjoy design, and I'm currently studying HTML, CSS, JavaScript and Python, building small projects to practice what I learn.
+
+## What I'm up to
+
+| | |
+|---|---|
+| Learning | HTML, CSS, JavaScript, Python, AI basics |
+| Designing | Landing pages, UI mockups, dark-theme interfaces |
+| Building | Personal projects and student projects at FST |
+| Open to | Collaboration and learning together |
+
+## Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,figma,tensorflow,git,github,vscode&theme=dark" />
+
+</div>
+
+## GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omeyme-maadh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2DD4BF&text_color=E6EDF3&ring_color=D4AF37" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeyme-maadh&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E6EDF3" />
+
+</div>
+
+## Featured projects
+
+<!-- Add each new project as a new cell. Copy a <td> block and edit it. -->
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%">
 
-**English**
-
-Computer science student specializing in **Informatique Appliquée à la Gestion d'Entreprise (MIAGE)** at the Faculté des Sciences et Techniques (FST), Université de Nouakchott — a program at the intersection of software engineering, information systems, and business management.
-
-Interested in **AI**, **data**, and **business process analysis**, with a focus on building systems that are both technically sound and useful to the organizations that run on them. Currently building toward a career as an AI engineer.
+**[Project 1]**<br/>
+[One-line description]<br/>
+`HTML` `CSS` `JavaScript`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%">
 
-**Français**
-
-Étudiante en informatique, spécialisation **Informatique Appliquée à la Gestion d'Entreprise (MIAGE)** à la Faculté des Sciences et Techniques (FST), Université de Nouakchott — une formation au croisement du génie logiciel, des systèmes d'information et de la gestion d'entreprise.
-
-Intéressée par l'**IA**, la **donnée**, et l'**analyse des processus métier**, avec une attention particulière portée aux systèmes à la fois solides techniquement et réellement utiles aux organisations qui les utilisent. En construction vers un parcours d'ingénieure IA.
+**[Project 2]**<br/>
+[One-line description]<br/>
+`Python` `AI`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## Toolkit
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,nextjs,mysql,postgres,mongodb,git,github&theme=dark" alt="Skill icons" />
-</div>
+## Get in touch
 
 <div align="center">
 
-`Business Process Analysis` &nbsp;&#183;&nbsp; `ERP Systems` &nbsp;&#183;&nbsp; `Power BI` &nbsp;&#183;&nbsp; `Merise / UML` &nbsp;&#183;&nbsp; `Data Analysis`
+[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:[your-email])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)]([your-linkedin-url])
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/omeyme-maadh)
+<!-- Optional: add Facebook, Instagram or other links below, then delete this line
+[![Facebook](https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=2DD4BF)]([your-facebook-url])
+-->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0D1117&height=100&section=footer" width="100%" />
 
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omeyme-maadh&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=4F7CFF&text_color=98989F" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeyme-maadh&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=98989F" alt="Top languages"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omeyme-maadh&theme=transparent&hide_border=true&ring=C9A227&fire=4F7CFF&currStreakLabel=C9A227&sideLabels=98989F&dates=5c5c63" alt="Streak stats"/>
-</div>
-
-<br/>
-
-## Pinned Projects
-
-> See [`REPO_IDEAS.md`](./REPO_IDEAS.md) for the full project roadmap and which six repos to pin.
-
-<br/>
-
-## Currently
-
-- 🎓 Studying **MIAGE** at FST, Université de Nouakchott
-- 🌱 Deepening skills in **AI/data** and **full-stack web development**
-- 💬 Open to **internships**, collaborative projects, and conversations about AI and business systems
-- 📫 Reach me via the links above
-
-<br/>
-
-<div align="center">
-<sub>Built with intention.</sub>
 </div>
